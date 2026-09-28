@@ -1,0 +1,6 @@
+{
+  "name": "My Gym",
+  "description": "30-Day Full Body Home Workout program with animated exercise guides, bilingual voice coaching in English and Hindi, personalized routines, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

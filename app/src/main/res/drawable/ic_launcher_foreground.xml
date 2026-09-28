@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Dumbbell Bar -->
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M34,51 h40 v6 h-40 z" />
+        <!-- Knurling center -->
+        <path
+            android:fillColor="#FF9800"
+            android:pathData="M48,50 h12 v8 h-12 z" />
+        <!-- Left Inner Plate Collar -->
+        <path
+            android:fillColor="#CBD5E1"
+            android:pathData="M38,47 h3 v14 h-3 z" />
+        <!-- Left Outer Heavy Plate -->
+        <path
+            android:fillColor="#FF6D00"
+            android:pathData="M32,41 h5 v26 h-5 c-1.5,0 -2.5,-1.2 -2.5,-2.5 v-21 c0,-1.3 1,-2.5 2.5,-2.5 z" />
+        <!-- Left Small Outer Plate -->
+        <path
+            android:fillColor="#FF9100"
+            android:pathData="M26,44 h4 v20 h-4 c-1.2,0 -2,-1 -2,-2 v-16 c0,-1 0.8,-2 2,-2 z" />
+        <!-- Right Inner Plate Collar -->
+        <path
+            android:fillColor="#CBD5E1"
+            android:pathData="M67,47 h3 v14 h-3 z" />
+        <!-- Right Outer Heavy Plate -->
+        <path
+            android:fillColor="#FF6D00"
+            android:pathData="M71,41 h5 c1.5,0 2.5,1.2 2.5,2.5 v21 c0,1.3 -1,2.5 -2.5,2.5 h-5 z" />
+        <!-- Right Small Outer Plate -->
+        <path
+            android:fillColor="#FF9100"
+            android:pathData="M78,44 h4 c1.2,0 2,1 2,2 v16 c0,1 -0.8,2 -2,2 h-4 z" />
+        <!-- Energy Bolt above Barbell -->
+        <path
+            android:fillColor="#FFD600"
+            android:pathData="M55,31 L49,43 L54,43 L52,51 L59,39 L54,39 Z" />
+        <!-- Base text/shield accent arc -->
+        <path
+            android:fillColor="#00E676"
+            android:pathData="M42,67 C46,70 54,72 54,72 C54,72 62,70 66,67 L68,69 C63,73 54,75 54,75 C54,75 45,73 40,69 Z" />
+    </group>
+</vector>
